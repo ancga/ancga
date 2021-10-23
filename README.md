@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ancga
+- 👋 Hi, I’m @angga.yudhi
 - 👀 I’m interested in learning something new
 - 🌱 I’m currently learning R for my upcoming study in urban planning
 - 💞️ I’m looking to collaborate 
