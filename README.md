@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angga.yudhi
-- 👀 I’m interested in learning machine learning
-- 🌱 I’m currently learning R for my upcoming study in urban planning
+- 👀 I’m interested in Urban Analytics
+- 🌱 I’m currently learning Python and DataViz for my study in urban science
 - 💞️ I’m looking to collaborate 
 - 📫 You can reach me here
 
